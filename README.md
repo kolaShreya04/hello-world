@@ -1,9 +1,6 @@
 # hello-world
-<html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Labs Page</title>
+    <title>HTML</title>
 </head>
 <body>
     <!-- Created by: Shreya kola -->
@@ -13,6 +10,7 @@
     <h1>Welcome to CPSC 2125</h1>
     <h2>Learning HTML5</h2>
     <p>This is a paragraph about HTML5 and its features.</p>
-    <img src="https://example.com/sample-image.jpg" alt="Sample Image">
+    <img src="https://github.com/kolaShreya04/hello-world/assets/142619333/a7c6b2ae-0934-4e7e-8ba6-6375a55f72a9">
+    
 </body>
-</html>
+</html> 
